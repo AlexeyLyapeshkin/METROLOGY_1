@@ -1,0 +1,12 @@
+kek = 10
+# lol kek
+lol # kek
+#
+a = [10,20,30]
+print(a[1])
+kek.lol()
+kek = {'kek':'lol'}
+if kek:
+kek = lol
+else:
+lol = kek
